@@ -1,5 +1,5 @@
 ### baeksujin 👋
 
-beakjoon : baeksujin
-Blog : https://get-it-withbsj.tistory.com/
+- beakjoon : baeksujin
+- Blog : https://get-it-withbsj.tistory.com/
 
