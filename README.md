@@ -37,7 +37,7 @@
 - 클라우드 솔루션 TF팀 **인턴십** (2022-09-01~2022-11-30)<br>
 
 더욱 성장하고 싶어, 휴학후 인턴십을 진행했습니다.<br>
-System Resource metric data에 대한 Report Service 및 경고 Service를 Go, Echo로 Image로 빌드하여 Prometheus, Grafana 등과 함께 Docker multi-container 환경에서 하나의 App으로 관리하는 역할을 하였습니다.<br>
+System Resource metric data에 대한 Report Service 및 경고 Service를 Go, Echo로 Image로 만들고 빌드하여 Prometheus, Grafana 등과 함께 Docker multi-container 환경에서 하나의 App으로 관리하는 역할을 하였습니다.<br>
 
 ---
 
