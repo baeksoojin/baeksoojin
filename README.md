@@ -22,6 +22,27 @@
 
 ---
 
+### 경험요약
+
+- 경험을 통해 성장한다고 생각하기에 다양한 **공모전, 해커톤** 시도하고 도전하고 있습니다.<br>
+
+총 6번의 수상 내역이 존재합니다.<br>
+가장 최근에는 시각장애인을 위한 알러지 체크 웹 애플리케이션 서비스로 성균관대학교 주관 사회복지더하기 디지털 기술 아이디어 공모전에서 **대상**을 수상하였습니다.<br> 
+[알러지체커](https://github.com/baeksoojin/Samdasu) 에서 자세히 확인 가능합니다.
+
+- 다양한 **프로젝트** 를 진행하며 개발 실력을 쌓아왔습니다.
+
+대표적으로,<br> [qrcode 활용 분실물 찾기 서비스](https://github.com/baeksoojin/whereQR)<br>[비트코인 자동트레이딩 시스템](https://github.com/baeksoojin/hodlhodl) : 현재 자동트레이딩 알고리즘 부분 특허출원 진행중 - 심사청구단계 <br> 이 있습니다.<br>
+
+- 클라우드 솔루션 TF팀 **인턴십** (2022-09-01~2022-11-30)<br>
+
+더욱 성장하고 싶어, 휴학후 인턴십을 진행했습니다.<br>
+System Resource metric data에 대한 Report Service 및 경고 Service를 Go, Echo로 Image로 빌드하여 Prometheus, Grafana 등과 함께 Docker multi-container 환경에서 하나의 App으로 관리하는 역할을 하였습니다.<br>
+
+---
+
 ### Portfolio<br>
 [Notion](https://www.notion.so/_-f336c79c5bae44ea8aafc101fbf6de2c)
+
+
 
