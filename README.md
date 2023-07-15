@@ -51,4 +51,10 @@ Go, Echo로 Image로 만들고 빌드하여 Prometheus, Grafana 등과 함께 Do
 [Resume](https://www.notion.so/_-f336c79c5bae44ea8aafc101fbf6de2c)
 
 
+----
+
+## ect
+
+[velog](https://velog.io/@sujin-create)
+
 
