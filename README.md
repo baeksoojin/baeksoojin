@@ -1,13 +1,13 @@
 ## baeksoojin 👋
 
 안녕하세요, **백엔드 개발자**를 목표로 공부를 하고 있습니다.<br>
-**클라우드 서비스** 활용능력에 강점이 있는 백엔드 개발자입니다. <br>
+**새로운 기술에 대한 빠른 습득 및** 활용능력에 강점이 있는 백엔드 개발자입니다. <br>
 
 ---
 
 ## Backend Developer
 
-💻 주요기술 : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+💻 주요기술 : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 
 💻 +)
 - 경험 : <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> / <img src="https://img.shields.io/badge/Go-092E20?style=for-the-badge&logo=go&logoColor=white"> <img src="https://camo.githubusercontent.com/7079c0f1404be1ddf9627e3672faa46f77cd720f0569e3e2748aa3c7849b52d0/68747470733a2f2f63646e2e6c6162737461636b2e636f6d2f696d616765732f6563686f2d6c6f676f2e737667" style="width : 55px;">
@@ -35,20 +35,23 @@
 
 💻  다양한 **프로젝트** 를 진행하며 개발 실력을 쌓아왔습니다.
 
-대표적으로,<br> [qrcode 활용 분실물 찾기 서비스](https://github.com/baeksoojin/whereQR)<br>[비트코인 자동트레이딩 시스템](https://github.com/baeksoojin/hodlhodl) : 현재 자동트레이딩 알고리즘 부분 특허출원 진행중 - 심사청구단계 <br> 이 있습니다.<br>
+대표적으로,<br> [qrcode 활용 분실물 찾기 서비스](https://github.com/baeksoojin/whereQR) - 전면 수정중 : [spring version](https://github.com/baeksoojin/whereQR_Spring_version) <br>[비트코인 자동트레이딩 시스템](https://github.com/baeksoojin/hodlhodl) : 현재 자동트레이딩 알고리즘 부분 특허출원 진행중 - 심사청구단계 <br> 이 있습니다.<br>
 
 ### 인턴십
+
+💻 휴몬랩 backend팀 **인턴십** (2023-05-10.~ 근무중 )<br>
 
 💻 클라우드 솔루션 TF팀 **인턴십** (2022-09-01~2022-11-30)<br>
 
 System Resource metric data에 대한 Report Service 및 경고 Service를 제공하는 **모니터링 서비스** 유지보수<br>
 Go, Echo로 Image로 만들고 빌드하여 Prometheus, Grafana 등과 함께 Docker multi-container 환경에서 하나의 App으로 관리하는 역할을 하였습니다.<br>
 
+
 ---
 
 ## Detail <br>
 
-[Resume](https://www.notion.so/_-f336c79c5bae44ea8aafc101fbf6de2c)
+[Portfolio](https://www.notion.so/_-f336c79c5bae44ea8aafc101fbf6de2c)
 
 
 ----
