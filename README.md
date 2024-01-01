@@ -47,9 +47,9 @@ Go, Echo로 Image로 만들고 빌드하여 Prometheus, Grafana 등과 함께 Do
 
 ---
 
-## Detail <br>
+## Resume <br>
 
-[Portfolio](https://www.notion.so/0368a0e9a662483f81d6ad99053f85c4)
+[Resume](https://sneaky-milkshake-9d4.notion.site/52795f6eaa2f47968a8097452cd0fc7b)
 
 
 ----
